@@ -1,0 +1,38 @@
+body{
+    padding: 50px 100px;
+}
+
+#main{
+    border: 2px solid black;
+}
+#head {
+    background-color: yellow;
+    /* margin: 0; */
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+    background-color: #1af0ff;  
+    padding: 50px ;
+}
+.input-div{
+    display: inline-block;
+}
+
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+
+label{
+    font-size: 22px;
+    color: black;
+}
